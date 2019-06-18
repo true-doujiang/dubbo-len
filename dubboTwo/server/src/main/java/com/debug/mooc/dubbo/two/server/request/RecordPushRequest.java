@@ -13,7 +13,7 @@ import java.io.Serializable;
  **/
 @Data
 @ToString
-public class RecordPushRequest implements Serializable{
+public class RecordPushRequest implements Serializable {
 
 //    private Integer itemId;
 //

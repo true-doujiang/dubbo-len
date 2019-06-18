@@ -6,6 +6,7 @@ import org.apache.ibatis.annotations.Param;
 import java.util.List;
 
 public interface ItemInfoMapper {
+
     int deleteByPrimaryKey(Integer id);
 
     int insert(ItemInfo record);

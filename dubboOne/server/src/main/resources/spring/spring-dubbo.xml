@@ -4,6 +4,8 @@
 	   xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
 
 		http://code.alibabatech.com/schema/dubbo http://code.alibabatech.com/schema/dubbo/dubbo.xsd">
+        <!-- alibaba 的 不用引入 Apache的 -->
+
 
     <!--发布出去的dubbo服务类所在包的注解-->
     <dubbo:annotation package="com.debug.mooc.dubbo.one.server.service.dubbo" />

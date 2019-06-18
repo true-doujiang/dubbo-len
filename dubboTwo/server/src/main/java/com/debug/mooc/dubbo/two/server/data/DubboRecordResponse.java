@@ -13,7 +13,7 @@ import java.io.Serializable;
  **/
 @Data
 @ToString
-public class DubboRecordResponse implements Serializable{
+public class DubboRecordResponse implements Serializable {
 
     private Integer code;
 

@@ -13,7 +13,7 @@ import java.io.Serializable;
  **/
 @Data
 @ToString
-public class PushOrderDto implements Serializable{
+public class PushOrderDto implements Serializable {
 
     //商品id
     private Integer itemId;

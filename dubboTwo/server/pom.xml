@@ -56,10 +56,10 @@
 
         <!--dubboOne发布的api-->
         <dependency>
-        <groupId>com.debug.mooc.dubbo.one</groupId>
-        <artifactId>api</artifactId>
-        <version>1.0.1</version>
-    </dependency>
+            <groupId>com.debug.mooc.dubbo.one</groupId>
+            <artifactId>api</artifactId>
+            <version>1.0.1</version>
+        </dependency>
 
         <!--model-->
         <dependency>
